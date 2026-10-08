@@ -1,7 +1,7 @@
-# FloriaApps
+# Floria-Apps
 
 <p align="center">
-  <img src="gallery/banner.png" alt="FloriaApps" width="100%">
+  <img src="gallery/banner.png" alt="Floria-Apps" width="100%">
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FloriaApps">
+  <a href="https://github.com/Floria-Apps">
     <img src="https://img.shields.io/badge/GitHub-Floria-Apps-181717?style=flat-square&logo=github" alt="Floria-Apps on GitHub">
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Yes-?style=flat-square" alt="Open Source">
@@ -23,7 +23,7 @@
 
 ## ✦ About
 
-**FloriaApps** is a software organization focused on building modern, open-source applications and tools.
+**Floria-Apps** is a software organization focused on building modern, open-source applications and tools.
 
 We care about creating software that is **simple to use, easy to understand, and built to evolve**.
 
