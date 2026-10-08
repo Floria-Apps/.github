@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://github.com/FloriaApps">
-    <img src="https://img.shields.io/badge/GitHub-FloriaApps-181717?style=flat-square&logo=github" alt="FloriaApps on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Floria-Apps-181717?style=flat-square&logo=github" alt="Floria-Apps on GitHub">
   </a>
   <img src="https://img.shields.io/badge/Open%20Source-Yes-?style=flat-square" alt="Open Source">
 </p>
@@ -53,7 +53,7 @@ Built with:
 
 `Jellyfin` · `Navidrome` · `Uptime Kuma` · `Gatus` · `Speedtest Tracker` · `Cup` · `What's up Docker` · `AdGuard Home`
 
-[**Explore Floria SelfHub →**](https://github.com/FloriaApps/Floria-selfhub)
+[**Explore Floria SelfHub →**](https://github.com/Floria-Apps/Floria-selfhub)
 
 ---
 
