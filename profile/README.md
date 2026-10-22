@@ -1,98 +1,89 @@
 # Floria-Apps
 
 <p align="center">
-  <img src="gallery/banner.png" alt="Floria-Apps" width="100%">
+  <img src="gallery/banner.png" alt="Floria-Apps — Open-source software" width="100%">
 </p>
 
 <p align="center">
   <strong>Open-source software, built with simplicity in mind.</strong>
-</p>
-
-<p align="center">
-  Modern applications and tools designed to be useful, understandable, and extensible.
+  <br>
+  Modern applications and tools designed to be useful, intuitive, and extensible.
 </p>
 
 <p align="center">
   <a href="https://github.com/Floria-Apps">
-    <img src="https://img.shields.io/badge/GitHub-Floria-Apps-181717?style=flat-square&logo=github" alt="Floria-Apps on GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Floria--Apps-181717?style=flat-square&logo=github" alt="Floria-Apps on GitHub">
   </a>
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-?style=flat-square" alt="Open Source">
+  <img src="https://img.shields.io/badge/Open%20Source-Community%20Driven-6C63FF?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source">
+  <img src="https://img.shields.io/badge/Focus-Simplicity%20%26%20Usability-64748B?style=flat-square" alt="Simplicity and usability">
 </p>
 
 ---
 
-## ✦ About
+## ✦ About Floria
 
-**Floria-Apps** is a software organization focused on building modern, open-source applications and tools.
+**Floria-Apps is an independent software organization building modern, open-source applications and developer tools.**
 
-We care about creating software that is **simple to use, easy to understand, and built to evolve**.
+We believe software should be more than functional. It should be approachable, thoughtfully designed, and easy to maintain.
 
-Our projects explore different areas of software development — from desktop applications and self-hosted tools to web applications and developer-focused software.
+From desktop applications to self-hosted infrastructure tools, our projects share a common goal: solving real problems through practical software, without unnecessary complexity.
 
-> **Build useful things. Keep them simple. Keep them open.**
+> Build useful things. Keep them simple. Keep them open.
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### Floria SelfHub
 
 <p align="center">
-  <img src="gallery/selfhub.png" alt="Floria SelfHub" width="90%">
+  <img src="gallery/selfhub.png" alt="Floria SelfHub — Desktop dashboard for self-hosted services" width="90%">
 </p>
 
-**A modern desktop dashboard for your self-hosted services.**
+**Your self-hosted services, together in one desktop application.**
 
-Floria SelfHub brings multiple self-hosted services together into a single desktop application, providing a clean interface for accessing information from your infrastructure.
+Floria SelfHub is a desktop dashboard that brings your self-hosted ecosystem into a single, unified interface. Access your services and monitor relevant information without constantly switching between browser tabs.
 
-Built with:
+Built for people who value control over their infrastructure, a clean interface, and a more convenient everyday workflow.
 
-`Tauri` · `Vue` · `Tailwind CSS` · `Rust`
+**Technology stack**
 
-**Integrations include:**
+`Tauri` · `Vue 3` · `Tailwind CSS` · `Rust`
+
+**Integrations**
 
 `Jellyfin` · `Navidrome` · `Uptime Kuma` · `Gatus` · `Speedtest Tracker` · `Cup` · `What's up Docker` · `AdGuard Home`
 
-[**Explore Floria SelfHub →**](https://github.com/Floria-Apps/Floria-selfhub)
+<p align="center">
+  <a href="https://github.com/Floria-Apps/Floria-selfhub">
+    <strong>Explore Floria SelfHub →</strong>
+  </a>
+</p>
 
 ---
 
 ## 🧭 What We Build
 
-We are interested in software that solves real problems without unnecessary complexity.
-
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🖥️ Desktop
-
-Modern cross-platform applications built with technologies such as Tauri and Rust.
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web
-
-Clean and responsive web applications built with modern frontend technologies.
-
-</td>
+      <h3>🖥️ Desktop Applications</h3>
+      Cross-platform software focused on native performance, usability, and thoughtful interfaces.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 Web Applications</h3>
+      Modern, responsive experiences built around clarity, accessibility, and maintainability.
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🏠 Self-hosted
-
-Tools designed to work with infrastructure and services that you control.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧰 Developer Tools
-
-Utilities and software designed to make development and everyday workflows easier.
-
-</td>
+      <h3>🏠 Self-hosted Software</h3>
+      Tools that help people manage their services, infrastructure, and data on their own terms.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 Developer Tools</h3>
+      Practical utilities that simplify development workflows and everyday technical tasks.
+    </td>
   </tr>
 </table>
 
@@ -100,28 +91,24 @@ Utilities and software designed to make development and everyday workflows easie
 
 ## 🛠️ Technology
 
-There is no single FloriaApps stack.
+**The right tool for the right problem.**
 
-We choose the technology that makes the most sense for each project.
+We don't force every project into the same technology stack. Our choices depend on the requirements, constraints, and long-term goals of each application.
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,vue,rust,tauri,nodejs,docker,postgres,linux,git,github" alt="Technologies">
-
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,rust,tauri,nodejs,docker,postgres,linux,git,github" alt="Technologies used across Floria-Apps projects">
 </p>
 
 Our projects may use:
 
-- **TypeScript**
-- **JavaScript**
-- **React**
-- **Vue**
-- **Rust**
-- **Tauri**
-- **Node.js**
-- **Docker**
-- **PostgreSQL**
-- **Linux**
+- **Languages:** TypeScript, JavaScript, Rust
+- **Frontend:** Vue, React, Tailwind CSS
+- **Desktop:** Tauri
+- **Backend:** Node.js and other project-specific technologies
+- **Infrastructure:** Docker, PostgreSQL, Linux
+- **Development:** Git and GitHub
+
+Technology is a means to an end. We prioritize maintainability, reliability, and a good user experience over trends.
 
 ---
 
@@ -131,19 +118,19 @@ Our projects may use:
   <tr>
     <td align="center" width="25%">
       <h3>Simple</h3>
-      <sub>Software should be understandable without unnecessary complexity.</sub>
+      <sub>Reduce unnecessary complexity. Make software easier to understand and use.</sub>
     </td>
     <td align="center" width="25%">
       <h3>Open</h3>
-      <sub>Source code should be available to inspect, learn from, and improve.</sub>
+      <sub>Make source code available so people can inspect, learn from, and improve it.</sub>
     </td>
     <td align="center" width="25%">
-      <h3>Modern</h3>
-      <sub>We use current technologies when they provide a meaningful advantage.</sub>
+      <h3>Thoughtful</h3>
+      <sub>Design interfaces and workflows around real needs, not needless features.</sub>
     </td>
     <td align="center" width="25%">
       <h3>Extensible</h3>
-      <sub>Projects should be designed to grow without becoming difficult to maintain.</sub>
+      <sub>Build software that can evolve without becoming difficult to maintain.</sub>
     </td>
   </tr>
 </table>
@@ -152,28 +139,28 @@ Our projects may use:
 
 ## 🌱 Open Source
 
-FloriaApps is built around open-source development.
+Open source is central to the way we build software.
 
-Our repositories are available for anyone to:
+We want our projects to be accessible to people who want to use them, understand how they work, learn from their implementation, or help make them better.
 
-- Explore
-- Use
-- Learn from
-- Report issues
-- Suggest improvements
-- Contribute
+Depending on each project's license and contribution guidelines, you can:
 
-We believe good software benefits from people being able to see how it works and participate in its development.
+- Explore and use our software.
+- Report bugs and suggest improvements.
+- Contribute code, documentation, and ideas.
+- Fork projects and adapt them to your needs.
+
+We believe software becomes more useful when people can understand it, participate in its development, and build upon it.
 
 ---
 
-## 📦 Repositories
+## 📦 Explore Our Projects
 
-Explore the organization to discover our projects, experiments, libraries, and tools.
+Discover our applications, experiments, libraries, and developer tools in our GitHub organization.
 
 <p align="center">
-  <a href="https://github.com/FloriaApps?tab=repositories">
-    <strong>View all repositories →</strong>
+  <a href="https://github.com/Floria-Apps?tab=repositories">
+    <strong>Browse all repositories →</strong>
   </a>
 </p>
 
@@ -181,22 +168,25 @@ Explore the organization to discover our projects, experiments, libraries, and t
 
 ## 🤝 Contributing
 
-Found a bug? Have an idea? Want to contribute?
+Have an idea, found a bug, or want to help?
 
-Feel free to open an **Issue** or **Pull Request** in the relevant repository.
+Contributions and constructive feedback are welcome.
 
-Before contributing, check the project's documentation and contribution guidelines.
+1. Explore the relevant repository.
+2. Read its documentation and contribution guidelines.
+3. Open an issue to discuss a bug or proposed improvement.
+4. Submit a pull request when you're ready to contribute.
+
+Please check each project's license and guidelines before contributing.
 
 ---
 
-<div align="center">
-
-### FloriaApps
-
-**Open-source software, built with simplicity in mind.**
-
-<br>
-
-<sub>Build useful things. Keep them simple. Keep them open.</sub>
-
-</div>
+<p align="center">
+  <strong>Floria-Apps</strong>
+  <br>
+  Open-source software, built with simplicity in mind.
+  <br><br>
+  <sub>Build useful things. Keep them simple. Keep them open.</sub>
+  <br><br>
+  <a href="https://github.com/Floria-Apps">GitHub Organization</a>
+</p>
