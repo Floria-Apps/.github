@@ -45,7 +45,7 @@ From desktop applications to self-hosted infrastructure tools, our projects shar
     </td>
     <td align="center" width="25%" valign="top">
       <img src="https://raw.githubusercontent.com/Floria-Apps/.github/main/floria-logos-organizadas/PNG/com-fundo/floria-dash-256px.png" width="112" alt="Floria Dash logo">
-      <h3>Floria Dash</h3>
+      <h3>Floria Sefhub</h3>
       <sub>A dashboard project focused on bringing useful information and tools together in one place.</sub>
     </td>
     <td align="center" width="25%" valign="top">
