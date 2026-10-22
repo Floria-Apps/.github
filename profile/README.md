@@ -32,12 +32,39 @@ From desktop applications to self-hosted infrastructure tools, our projects shar
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <img src="https://raw.githubusercontent.com/Floria-Apps/.github/main/floria-logos-organizadas/PNG/com-fundo/floria-org-256px.png" width="112" alt="Floria-Apps logo">
+      <h3>Floria-Apps</h3>
+      <sub>An independent organization building modern, open-source applications and developer tools.</sub>
+      <br><br>
+      <a href="https://github.com/Floria-Apps">Explore organization →</a>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="https://raw.githubusercontent.com/Floria-Apps/.github/main/floria-logos-organizadas/PNG/com-fundo/floria-dash-256px.png" width="112" alt="Floria Dash logo">
+      <h3>Floria Dash</h3>
+      <sub>A dashboard project focused on bringing useful information and tools together in one place.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="https://raw.githubusercontent.com/Floria-Apps/.github/main/floria-logos-organizadas/PNG/com-fundo/floria-dock-256px.png" width="112" alt="Floria Dock logo">
+      <h3>Floria Dock</h3>
+      <sub>A project focused on managing Docker applications and self-hosted services.</sub>
+    </td>
+    <td align="center" width="25%" valign="top">
+      <img src="https://raw.githubusercontent.com/Floria-Apps/.github/main/floria-logos-organizadas/PNG/com-fundo/floria-tune-256px.png" width="112" alt="Floria Tune logo">
+      <h3>Floria Tune</h3>
+      <sub>A project focused on music, audio, and listening experiences.</sub>
+    </td>
+  </tr>
+</table>
 
 ### Floria SelfHub
 
 <p align="center">
-  <img src="gallery/selfhub.png" alt="Floria SelfHub — Desktop dashboard for self-hosted services" width="90%">
+  <img src="https://raw.githubusercontent.com/Floria-Apps/.github/main/profile/gallery/selfhub.png" alt="Floria SelfHub — Desktop dashboard for self-hosted services" width="90%">
 </p>
 
 **Your self-hosted services, together in one desktop application.**
